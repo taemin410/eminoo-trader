@@ -1,1 +1,4 @@
-ib-insync 
+ib-insync
+fastapi
+uvicorn[standard]
+websockets 
